@@ -1,4 +1,4 @@
-package trafficlight;
+package com.ex;
 
 
 public class GreenLight {
